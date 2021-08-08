@@ -21,7 +21,7 @@ It was made during the quarantine of March 2020.
 	
 ## Build images
 	
-![closeup](https://github.com/finos2/MacroPad/blob/main/Images/Front.jpg?raw=true)
+![closeup](https://github.com/finos2/MacroPad/blob/main/Images/Front_withLabel.jpg?raw=true)
 	 
 - there is a picture with the pad installed at the client's computer. 
 	
