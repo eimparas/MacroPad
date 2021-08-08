@@ -17,11 +17,12 @@ It was made during the quarantine of March 2020.
 - led indicators.
 
 ## Schematics
-	insert image 
+![Schematics](https://github.com/finos2/MacroPad/blob/main/Images/Schematic_sim_pad_2021-08-07.png?raw=true)
 	
 ## Build images
-	closeup
 	
-	-there is a picture with the pad installed at the client`s computer. 
+![closeup](https://github.com/finos2/MacroPad/blob/main/Images/Front.jpg?raw=true)
+	 
+- there is a picture with the pad installed at the client's computer. 
 	
-	setup
+![setup](https://github.com/finos2/MacroPad/blob/main/Images/setup.jpg?raw=true)
